@@ -18,5 +18,8 @@
   "homepage": "https://github.com/sebastianlobo/photoSharingApp#readme",
   "devDependencies": {
     "express": "^4.16.4"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
   }
 }
